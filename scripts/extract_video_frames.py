@@ -1,6 +1,6 @@
 """
 Splits a video into is respective frames and
-save each frame to image file.
+saves each frame to image file.
 
 """
 # Relevant library imports

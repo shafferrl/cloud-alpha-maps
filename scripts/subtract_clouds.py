@@ -2,9 +2,9 @@
 Produces an image of the Earth after subtracting clouds to the
 greatest extent possible by finding the pixels with the lowest 
 R + G + B value in a series of frames.  The white or near-white
- color of clouds will always add to the frame's R + G + B value
- and make it possible to find the frame with the least cloud
- cover over each pixel.
+color of clouds will always add to the frame's R + G + B value
+and make it possible to find the frame with the least cloud
+cover over each pixel.
 
 """
 # Relevant libary imports
