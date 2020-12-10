@@ -1,0 +1,8 @@
+# Files and Directories to Exclude #
+####################################
+
+**/cloud_alpha_multi_blended.mp4
+**/cloud_alpha_video_blended_56fps.mp4
+**/cloud_alpha_video.mp4
+results/interim/frames/
+**/__pycache__
