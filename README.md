@@ -10,3 +10,5 @@ Due to the heavy computational load of analyzing each pixel of each frame during
 ## Other Files ##
 
 The source video and some results have also been included in the repository, but extracted frames and some output videos have been excluded due to their collectively large size.  These files can also be reproduced from the source video and the scripts herein.
+
+The original video output files were too large to upload to Github and have been compressed using clideo.com, which has applied a watermark to each that has been compressed.
